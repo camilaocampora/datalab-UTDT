@@ -1,0 +1,92 @@
+@import url('https://fonts.googleapis.com/css2?family=Jost:wght@500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Shrikhand&display=swap');
+
+body
+{
+   
+    font-family: 'Jost', sans-serif;
+}
+
+h1
+{
+    font-family: 'Jost', sans-serif;
+    font-size: 3em;
+}
+
+h2
+{
+    font-family: 'Jost', sans-serif;
+    font-size: 3em;
+}
+
+text
+{
+    font-size: 2em;
+    margin-left: 4em;
+    margin-right: 4em;
+    margin-top: 2em;
+    margin-bottom: 1em;
+    text-align: center;
+}
+
+button
+{
+    background-color: transparent;
+    border: none;
+    font-size: 1.5em;
+    margin-left: 1.5em;
+    margin-top: 1em;
+}
+button2
+{
+    background-color: transparent;
+    border: none;
+    font-size: 2.5em;
+    margin-left: 1em;
+
+    text-align: center
+}
+img
+{
+    width: 50%;
+}
+imgflor
+{
+    width: 80%;
+}
+hr
+{
+    stroke: 5px;
+}
+@media (max-width: 768px)
+{
+    h1
+    {
+        font-size: 1em;
+        
+    }
+
+    h2
+    {
+        font-size: 2em;
+    }
+
+    text
+    {
+        font-size: 2em;
+        margin-left: 2em;
+        margin-right: 0.7em;
+
+    }
+
+    button
+    {
+        font-size: 1em;
+        margin: 0em;
+    }
+    img
+    {
+    width:50%;
+    
+    }
+}
